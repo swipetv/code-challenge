@@ -8,15 +8,12 @@ For us it is important to understand your current ability and the way you would 
 This will give us some insight into your current level of experience. 
 
 
-###Up for a challlenge?
+### Up for a challlenge?
 
-Please organize, design, test and document your code as if it were going into production.
-
-Spend as much time as you like on this project. However, out of respect for your time, if you need to scope it to 3-4 hours, feel free to mock/fake any feature that you don't have time to develop.
-
-The UX/UI is totally up to you. Feel free to explain any assumptions you have to make. If you like, get creative and add additional features a user might find useful!
-
-While visual design is not part of the challenge, a polished interface is preferred.
+1 Please organize, design, test and document your code as if it were going into production.
+2 Spend as much time as you like on this project. However, out of respect for your time, if you need to scope it to 3-4 hours, feel free to mock/fake any feature that you don't have time to develop.
+3 The UX/UI is totally up to you. Feel free to explain any assumptions you have to make. If you like, get creative and add additional features a user might find useful!
+4 While visual design is not part of the challenge, a polished interface is preferred.
 
 
 
