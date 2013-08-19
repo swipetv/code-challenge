@@ -7,15 +7,17 @@ This is where we invite you to solve a small code challenge to test your skills.
 For us it is important to understand your current ability and the way you would solve these problems.
 This will give us some insight into your current level of experience. 
 
+
+###Up for a challlenge?
+
 Please organize, design, test and document your code as if it were going into production.
 
-### Please then send us:
+Spend as much time as you like on this project. However, out of respect for your time, if you need to scope it to 3-4 hours, feel free to mock/fake any feature that you don't have time to develop.
 
-* A link to the hosted application
-* A link to the hosted repository (e.g. Github/YourRepo)
-* Link to any other example of code you're particularly proud of (ideally in your project's README)
-* Link to your resume or public profile (ideally in your project's README)
-* Functional spec
+The UX/UI is totally up to you. Feel free to explain any assumptions you have to make. If you like, get creative and add additional features a user might find useful!
+
+While visual design is not part of the challenge, a polished interface is preferred.
+
 
 
 The Challenge
@@ -47,7 +49,6 @@ At the moment we are looking for positive and smart people. Who function well in
 * Recognize the subtle details in a design/motion and be able to translate this in to decent HTML5, CSS3 and Javascript.
 * You know how to make coffee, the dishes and other odd jobs ;)
 
-
 #### You will need to have good to very good knowledge and experience with:
 
 * Javascript
@@ -59,8 +60,7 @@ At the moment we are looking for positive and smart people. Who function well in
 * Ruby-on-Rails
 * Github
 
-
-### What can you expect from us
+#### What can you expect from us
 
 * Good opportunities for growth and development.
 * Freedom and responsibility to learn and make a real product.
@@ -69,8 +69,7 @@ At the moment we are looking for positive and smart people. Who function well in
 * Nice collaborations with a small and dedicated team
 * Travel expenses
 
-
-### Bonus points if you have knowledge of:
+#### Bonus points if you have knowledge of:
 
 * Lean startup methode
 * Mobile development
@@ -79,5 +78,13 @@ At the moment we are looking for positive and smart people. Who function well in
 * UX/UI Design principes
 * Actionscript 3.0
 
+==============
 
-##If you are interested send us your solution an email and do the code challenge
+## Does this sound ideal too you?
+
+#### Please send us:
+
+* A link to the hosted application
+* A link to the hosted repository (e.g. Github/YourRepo)
+* Link to any other example of code you're particularly proud of (ideally in your project's README)
+* Link to your resume or public profile (ideally in your project's README)
